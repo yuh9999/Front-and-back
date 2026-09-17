@@ -7,7 +7,7 @@ body {
 header,
 main,
 footer {
-  padding: 20px;
+  padding: 17px;
 }
 
 header {
@@ -19,7 +19,7 @@ footer {
 }
 
 section {
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 section h2 {
